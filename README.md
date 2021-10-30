@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at OPER (Belgian start reinventing mortgage lending)
+- 🌱 I’m currently learning Python for fun
+- 👯 I’m looking to collaborate on any interesting project
+- 🤔 I’m looking for help with more indepth automated testing and python
+- 💬 Ask me about new school or old school Javascript
+- 📫 How to reach me: You will find your way.
+- ⚡ Fun fact: I am just a boring ordinary rudeboy
