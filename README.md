@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at OPER (Belgian start reinventing mortgage lending)
+- 🔭 I’m currently working at OPER (Belgian fintech startup reinventing mortgage lending)
 - 🌱 I’m currently learning Python for fun
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 I’m looking for help with more indepth automated testing and python
