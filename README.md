@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about new school or old school Javascript
 - 📫 How to reach me: You will find your way.
 - ⚡ Fun fact: I am just a boring ordinary rudeboy. 🤠
+
+#### Let me put here one of my favourite development related funpic!
+
+![Let's see who caused this bug](https://github.com/zoltanradics/zoltanradics/blob/main/who-caused-this-big.jpg?raw=true)
