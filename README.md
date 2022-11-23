@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with more indepth automated testing
 - 💬 Ask me about new school or old school Javascript
 - 📫 How to reach me: You will find your way.
-- ⚡ Fun fact: Sometimes I speak too loud, but I am just an ordinary rudeboy. 🤠
+- ⚡ Fun fact: Sometimes I speak too loud and sometimes I talk too much about food, but I am just a regular, everyday ordinary rudeboy. 🤠
 - 💣 [This](https://github.com/zoltanradics/zoltanradics/blob/main/who-caused-this-big.jpg?raw=true) is always true!
 
 #### What project would make you the most motivated?
