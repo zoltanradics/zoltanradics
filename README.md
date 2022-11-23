@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 #### ☝️ What project would make you the most motivated?
 
-I am a curious person and a news junkie. I want to know the world around me. I want to understand why and how things happen. Any project would make me very excited about news, free-press, freedom-of-speech, democracy, human rights, equal LGBTQ rights, investigative journalism or contribution in a tool which helps the fight against, fake-news, misinformation, political opression, propaganda trolling
+I am a curious person and a news junkie. I want to know the world around me. I want to understand why and how things happen. Any project would make me very excited about news, free-press, freedom-of-speech, democracy, human rights, equal LGBTQ rights, investigative journalism or contribution to tools which help the fight against, fake-news, misinformation, political opression, propaganda trolling
