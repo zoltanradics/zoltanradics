@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at OPER (Belgian fintech startup reinventing mortgage lending)
-- 🌱 I’m currently having fun with Svelte, Lit-Element
+- 🌱 I’m currently having fun with Lit-Element and web-components
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 I’m looking for help with more indepth automated testing
 - 💬 Ask me about new school or old school Javascript
 - 📫 How to reach me: You will find your way.
-- ⚡ Fun fact: I am just a boring ordinary rudeboy. 🤠
+- ⚡ Fun fact: I am just an ordinary rudeboy. 🤠
 - 💣 [This](https://github.com/zoltanradics/zoltanradics/blob/main/who-caused-this-big.jpg?raw=true) is always true!
+
+#### What project would make you the most motivated?
+
+I am a curious person and a news junkie. I want to know the world around me. I want to understand why and how things happen. Any project would make me very excited about news, free-press, freedom-of-speech, democracy, human rights, equal LGBTQ rights, investigative journalism or contribution in a tool which helps the fight against, fake-news, misinformation, political opression, propaganda trolling
