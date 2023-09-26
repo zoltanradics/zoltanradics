@@ -23,7 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You will find your way.
 - ⚡ Fun fact: Sometimes I speak too loud and sometimes I talk too much about food, but I am just a regular, everyday ordinary rudeboy. 🤠
 - 💣 [This](https://github.com/zoltanradics/zoltanradics/blob/main/who-caused-this-big.jpg?raw=true) is always true!
-
-#### ☝️ What project would make me the most motivated?
-
-I am a curious person and a news junkie. I want to know the world around me. I want to understand why and how things happen. Any project would make me very excited about news, free-press, freedom-of-speech, democracy, human rights, equal LGBTQ rights, investigative journalism or contribution to tools which help the fight against, fake-news, misinformation, political opression, propaganda trolling. Now you have a picture!
