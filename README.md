@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at OPER (Belgian fintech startup reinventing mortgage lending)
-- 🌱 I’m currently having fun with Lit-Element and web-components
+- 🌱 I like to have fun with libraries such as Lit-Element, Stencil, Svelte, React
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 I’m looking for help with more indepth automated testing
-- 💬 Ask me about new school or old school Javascript
-- 📫 How to reach me: You will find your way.
-- ⚡ Fun fact: Sometimes I speak too loud and sometimes I talk too much about food, but I am just a regular, everyday ordinary rudeboy. 🤠
+- 💬 Ask me anything about new school or old school Javascript
+- 📫 How to reach me: You will find your way!
+- ⚡ Fun fact: Sometimes I speak too loud and sometimes I talk too much about food
 - 💣 [This](https://github.com/zoltanradics/zoltanradics/blob/main/who-caused-this-big.jpg?raw=true) is always true!
