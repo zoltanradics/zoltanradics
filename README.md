@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at OPER (Belgian fintech startup reinventing mortgage lending)
 - 🌱 I like to have fun with libraries such as Lit-Element, Stencil, Svelte, React
-- 👯 I’m looking to collaborate on any interesting project
+- 👯 I’m looking forward to collaborate on any interesting project (eg. vanilla Javascript with no frameworks and dependencies)
 - 🤔 I’m looking for help with more indepth automated testing
 - 💬 Ask me anything about new school or old school Javascript
 - 📫 How to reach me: You will find your way!
