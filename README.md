@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with more indepth automated testing
 - 💬 Ask me anything about new school or old school Javascript
 - 📫 How to reach me: You will find your way!
-- ⚡ Fun fact: Sometimes I speak too loud and sometimes I talk too much about food
+- ⚡ Fun fact: Sometimes I talk too loud and I talk too much about food!
 - 💣 [This](https://github.com/zoltanradics/zoltanradics/blob/main/who-caused-this-big.jpg?raw=true) is always true!
