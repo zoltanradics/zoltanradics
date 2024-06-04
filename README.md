@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently open for a new long-term / short-term contracts.
-- 🌱 I like to have fun with libraries such as React, Stencil, Lit-Element, Stencil, Svelte
+- 🌱 I like to have fun with web-components and libraries such as React, Stencil, Lit-Element, Stencil, Svelte
 - 👯 I’m looking forward to collaborate on any interesting project (eg. vanilla Javascript with no frameworks and dependencies)
+- 📱 I am enjoying learning Swift language
 - 🤔 I’m looking for help with more indepth automated testing
 - 💬 Ask me anything about new school or old school Javascript
 - 📫 How to reach me: You will find your way!
